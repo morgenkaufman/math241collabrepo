@@ -32,5 +32,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 My name is harper! 
 
 
-Hello my name is Gus!
+Hello my name is Gus! I had a parfait for breakfast today (2/6/2024).
 
